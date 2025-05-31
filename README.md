@@ -101,4 +101,4 @@ This project successfully demonstrates the design and simulation of a synchronou
 - Ballambettu Milan Shankar Bhat (4NI23EC019)
 - Disha R S (4NI23EC029)
 - Disha N Bhushan (4NI23EC028)
-- 
+
