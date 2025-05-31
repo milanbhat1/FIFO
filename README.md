@@ -1,4 +1,4 @@
-# FIFO Middle Block (Verilog HDL)
+# FIFO Block (Verilog HDL)
 
 ## 1. Abstract
 A First-In-First-Out (FIFO) memory buffer is a key component in digital systems, ensuring orderly data storage and retrieval. This project presents the design, implementation, and simulation of a synchronous FIFO using Verilog HDL. It focuses on simple, hazard-free data access and reliable synchronization between write and read operations, using a single clock signal and an enable (`en`) signal to determine the operation mode.
@@ -80,7 +80,7 @@ FIFO buffers are essential in digital electronics for maintaining data order, es
 
 ### Group Photo
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d0125a6-a8e2-44d2-8e4f-a9e91e7df55a" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/7d0125a6-a8e2-44d2-8e4f-a9e91e7df55a" />
 
 ## 11. Limitations and Future Work
 
@@ -95,3 +95,10 @@ FIFO buffers are essential in digital electronics for maintaining data order, es
 
 ## 12. Conclusion
 This project successfully demonstrates the design and simulation of a synchronous FIFO using Verilog HDL. The module effectively handles ordered data flow, write-read sequencing, and memory management. It provides a strong foundation for more advanced FIFO systems with additional safety and control features for real-world applications.
+
+## 13. Contributors
+
+- Ballambettu Milan Shankar Bhat (4NI23EC019)
+- Disha R S (4NI23EC029)
+- Disha N Bhushan (4NI23EC028)
+- 
